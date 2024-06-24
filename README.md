@@ -10,12 +10,13 @@
 ## Personalisize 
 
 - wir aktivieren in Jira den DarkMode Theme
-![[Jira - Darkmode.png]]
+
+![](./screen/Jira%20-%20Darkmode.png)
 
 ## Workflow Variante 1
 
- - mit der Workflow Variante werden unterschiedliche Bedingung in ein Status gesetz
-![[Jira - Workflow Variant 1.png]]
+- mit der Workflow Variante werden unterschiedliche Bedingung in ein Status gesetz
+![bild](./screen/Jira%20-%20Workflow%20Variant%201.png)
 ## SCRUM 
 
 ### Punkt 1
@@ -48,13 +49,13 @@
 
 - mit der folgenden Anweisungen wird der Workflow mit Jira vereinfacht
 
-![[Jira - Automation erstellen.png]]
+![bild](./screen/Jira%20-%20Automation%20erstellen.png)
 ## Plugin Structure
 
 https://ydh-embedded.atlassian.net/jira/marketplace/discover/app/com.almworks.jira.structure?installDialogOpen=true&source=mpac
 
 - Wird zum visualisieren der TimeSheets verwendet ! Für Vertrieb Kalkulation interessant 
 - 30 Tage FreeVersion
-![[Jira - Plugin Structure 1.png]]
+![bild](./screen/Jira%20-%20Plugin%20Structure.png)
 
 
